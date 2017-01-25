@@ -9,6 +9,11 @@ Situation
 #HSLIDE
 Options
 
+- Angular 2
+- React
+- Mithril
+- Aurelia
+
 
 #HSLIDE
 Why Aurelia?
