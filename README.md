@@ -1,4 +1,6 @@
-These slides were used for Aurelia Berlin Meetup #1
+## Meetup Slides
+[Aurelia Berlin Meetup #1](meetup.com/aurelia-berlin)
+
 25 January 2017
 
 Presenter: Natalia
