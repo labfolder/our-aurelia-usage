@@ -7,7 +7,8 @@ Situation
 
 
 #HSLIDE
-* Options
+Options
+
   * Angular 2
   * React
   * Mithril
@@ -15,16 +16,25 @@ Situation
 
 
 #HSLIDE
-* Why Aurelia?
-  * Angular 2
-  * React
-  * Mithril
-  * Aurelia
+Why Aurelia?
+
+  * Liked code style
+  * ES6
+  * Good testing support
+  * Opioninated
+  * Easy to get started
+  * Paid support available
 
 
 #HSLIDE
 Pain points
 
+  * Opioninated :(
+  * Bugs
+  * Webpack / Gulp / Aurelia CLI / etc....
+  * Dependency issues
+  * Size of community
+  * Support?
 
 #HSLIDE
 Demo
