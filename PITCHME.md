@@ -7,12 +7,18 @@ Situation
 
 
 #HSLIDE
+What we want
+
+![Order](https://img.buzzfeed.com/buzzfeed-static/static/2016-01/19/10/enhanced/webdr13/enhanced-buzz-13110-1453218793-5.jpg)
+
+
+#HSLIDE
 Options
 
   * Angular 2
   * React
-  * Mithril
   * Aurelia
+  * Mithril
 
 
 #HSLIDE
