@@ -7,16 +7,19 @@ Situation
 
 
 #HSLIDE
-Options
-
-- Angular 2
-- React
-- Mithril
-- Aurelia
+* Options
+  * Angular 2
+  * React
+  * Mithril
+  * Aurelia
 
 
 #HSLIDE
-Why Aurelia?
+* Why Aurelia?
+  * Angular 2
+  * React
+  * Mithril
+  * Aurelia
 
 
 #HSLIDE
